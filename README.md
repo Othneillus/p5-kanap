@@ -1,4 +1,4 @@
 # p5-kanap
 
-## BASE_URL
+## API_BASE_URL
 https://oc-p-5-kanap.herokuapp.com/
